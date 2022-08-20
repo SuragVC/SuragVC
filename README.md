@@ -12,4 +12,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuragVC&show_icons=true&locale=en&layout=compact" alt="SuragVC" />
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuragVC&show_icons=true&theme=radical" alt="SuragVC" />
+
+
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
