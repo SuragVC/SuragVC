@@ -2,7 +2,7 @@
 <h3 align="center">Back End Developer, Enjoy creative problem solving and getting exposure to multiple projects, and I would excel in the collaborative environment on which your company prides itself.</h3>
 <br>
 <br>
-- 🌱 I’m currently learning **Spring Boot, Hibernate, Maven**
+I’m currently learning : Spring Boot, Hibernate, Maven
 
 <h3 align="left">Connect me through: Suragvc2000@gmail.com</h3>
 
@@ -17,4 +17,5 @@
 ![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
 
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="150">
+
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
