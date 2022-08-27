@@ -14,8 +14,4 @@ I’m currently learning : Spring Boot, Hibernate, Maven
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=SuragVC&show_icons=true&theme=radical" alt="SuragVC" />
 
 
-![Alt Text](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-
-
-
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
