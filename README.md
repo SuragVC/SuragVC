@@ -1,5 +1,5 @@
 ![Alt Text](https://i.im.ge/2022/08/19/OaGu0G.Black-Blue-Modern-Geometric-Technology-Youtube-Intro.gif )
-<div align="center" width="50%"><h3 align="center">Back End Developer, Enjoy creative problem solving and getting exposure to multiple projects, and I would excel in the collaborative environment on which your company prides itself.</h3></div>
+<div align="center" width=50%><h3 align="center">Back End Developer, Enjoy creative problem solving and getting exposure to multiple projects, and I would excel in the collaborative environment on which your company prides itself.</h3></div>
 <br>
 <br>
 I’m currently learning : Spring Boot, Hibernate, Maven
