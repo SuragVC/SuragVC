@@ -2,14 +2,12 @@
 <h3 align="center">Back End Developer, Enjoy creative problem solving and getting exposure to multiple projects, and I would excel in the collaborative environment on which your company prides itself.</h3>
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, Maven**
-- 👨‍💻 All of my projects are available at 
- <a href="https://suragvc.netlify.app/" target="blank"><img align="center" src="![image](https://user-images.githubusercontent.com/81639441/189710163-4a21d3ab-3386-4e54-9b4d-86e03863d792.png)
-" alt="https://suragvc.netlify.app/" height="30" width="40" /></a> 
+- 👨‍💻 All of my projects are available at <a href="https://suragvc.netlify.app/" target="blank"><h4>Portfolio</h4></a> 
 - 💬 Ask me about **JAVA WEB DEVELOPMENT**
 
 - 📫 How to reach me **Suragvc2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bKaICClIZmoSH-e_RTr8uIZ5PA1qqOOq/view](https://drive.google.com/file/d/1bKaICClIZmoSH-e_RTr8uIZ5PA1qqOOq/view)
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1bKaICClIZmoSH-e_RTr8uIZ5PA1qqOOq/view" target="blank"><h4>Resume</h4></a> 
 
 <h3 align="left">Connect me through:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/surag-vc-79ba50161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surag-vc-79ba50161/" height="30" width="40" /></a>
