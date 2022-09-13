@@ -20,6 +20,6 @@
 </p>
 <p align="center">
 <img src="https://readme-jokes.vercel.app/api?theme=watermelon" alt="Jokes Card" width="250" height="200"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuragVC&show_icons=true&locale=en&layout=compact&theme=radical"  width="250" height="200" alt="SuragVC" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuragVC&show_icons=true&locale=en&layout=compact&theme=radical"  alt="SuragVC" />
 </p>
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
