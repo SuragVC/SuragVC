@@ -20,7 +20,7 @@
 <img src="https://readme-jokes.vercel.app/api?theme=watermelon" alt="Jokes Card" />
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=SuragVC&show_icons=true&locale=en&layout=compact&theme=radical" alt="SuragVC" />
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=SuragVC&show_icons=true&theme=radical" alt="SuragVC" />
+
 
 
 <img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
