@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **Suragvc2000@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1bKaICClIZmoSH-e_RTr8uIZ5PA1qqOOq/view" target="blank"><h4>Resume</h4></a> 
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1bKaICClIZmoSH-e_RTr8uIZ5PA1qqOOq/view?usp=sharing" target="blank"><h4>Resume</h4></a> 
 
 <h3 align="left">Connect me through:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/surag-vc-79ba50161/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/surag-vc-79ba50161/" height="30" width="40" /></a>
