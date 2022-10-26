@@ -1,7 +1,7 @@
 ![Alt Text](https://i.im.ge/2022/08/19/OaGu0G.Black-Blue-Modern-Geometric-Technology-Youtube-Intro.gif )
 <h3 align="center">Back End Developer, Enjoy creative problem solving and getting exposure to multiple projects, and I would excel in the collaborative environment on which your company prides itself.</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suragvc" alt="suragvc" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suragvc&theme=radical" alt="suragvc" /></a> </p>
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, Maven**
 
