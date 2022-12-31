@@ -28,7 +28,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=suragvc&theme=radical" alt="suragvc" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suragvc&show_icons=true&locale=en&layout=compact&theme=radical" alt="suragvc" /></p>
 
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100" >
 
 
 
