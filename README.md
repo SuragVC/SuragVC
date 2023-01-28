@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Spring Boot, Hibernate, Maven**
 
-- 👨‍💻 All of my projects are available at [https://suragvc.netlify.app/](https://suragvc.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://suragvc.netlify.app/)
 
 - 💬 Ask me about **JAVA WEB DEVELOPER**
 
 - 📫 How to reach me **Suragvc2000@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1bKaICClIZmoSH-e_RTr8uIZ5PA1qqOOq/view](https://drive.google.com/file/d/1bKaICClIZmoSH-e_RTr8uIZ5PA1qqOOq/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bKaICClIZmoSH-e_RTr8uIZ5PA1qqOOq/view)
 
 
 
