@@ -3,7 +3,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suragvc&theme=matrix" alt="suragvc"/></a></p>
 <p><img align="right" height="350" width="450" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt=""/></p>
-- 🌱 I’m currently learning **Spring Boot, Hibernate, Maven**
+- 🌱 I’m currently learning <i>SpringBoot</i>
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://suragvc.netlify.app/)
 
