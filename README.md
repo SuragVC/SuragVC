@@ -35,7 +35,7 @@
 <p align="center">
 <img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=suragvc&show_icons=true&locale=en&layout=compact&theme=dark"   alt="suragvc" />
 &nbsp;
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=suragvc&show_icons=true&locale=en&theme=dark" alt="suragvc" />
+<img width="400" src="https://github-readme-stats.vercel.app/api?username=suragvc&show_icons=true&locale=en&theme=dark" alt="suragvc"/>
 </p>
-<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100" >
+<img src="https://raw.githubusercontent.com/matfantinel/matfantinel/master/waves.svg" width="100%" height="100">
 
