@@ -33,7 +33,7 @@
   <img src="https://ghchart.rshah.org/suragvc?background=ff0000&fill=ffffff" alt="GitHub Contribution Chart for suragvc">
 </div>
 <p align="center">
-<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=suragvc&show_icons=true&locale=en&layout=compact&theme=dark" alt="suragvc" />
+<img width="350" src="https://github-readme-stats.vercel.app/api/top-langs?username=suragvc&show_icons=true&locale=en&layout=compact&theme=dark" alt="suragvc" / >
 &nbsp;
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=suragvc&show_icons=true&locale=en&theme=dark" alt="suragvc" />
 </p>
