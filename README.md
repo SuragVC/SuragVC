@@ -2,7 +2,6 @@
 <h3 align="center">Back End Developer, Enjoy creative problem solving and getting exposure to multiple projects, and I would excel in the collaborative environment on which your company prides itself.</h3>
 <p><img align="right" height="250" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt=""/></p>
 - 🌱 I’m currently learning <i>SpringBoot</i>
-
 - 👨‍💻 All of my projects are available at [Portfolio](https://suragvc.netlify.app/)
 
 - 💬 Ask me about **JAVA | Spring | MySql | Hibernate**
