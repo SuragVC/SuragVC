@@ -1,16 +1,13 @@
 ![Surag VC](https://i.im.ge/2022/08/19/OaGu0G.Black-Blue-Modern-Geometric-Technology-Youtube-Intro.gif)
-
-
-
 <h3 align="center">Back End Developer, Enjoy creative problem solving and getting exposure to multiple projects, and I would excel in the collaborative environment on which your company prides itself.</h3>
 <p><img align="right" height="250" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt=""/></p>
+
 - 🌱 I’m currently learning <i>SpringBoot</i>
 - 👨‍💻 All of my projects are available at [Portfolio](https://suragvc.netlify.app/)
-
-
 - 💬 Ask me about **JAVA | Spring | MySql | Hibernate**
 - 📫 How to reach me **Suragvc2000@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bKaICClIZmoSH-e_RTr8uIZ5PA1qqOOq/view)
+
 <h3 align="left">Connect with me</h3>
 <p align="left">
 <a href="https://twitter.com/https://twitter.com/home?lang=en-in" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/home?lang=en-in" height="30" width="40"/></a>
