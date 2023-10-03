@@ -5,7 +5,7 @@
  
 - 🌱 I’m currently learning <i>Flutter</i>
 - 👨‍💻 All of my projects are available at [Portfolio](https://suragvc.netlify.app/)
-- 💬 Ask me about **JAVA | Spring | MySql | Hibernate**
+- 💬 Ask me about **Flutter | JAVA | Spring | MySql | Hibernate**
 - 📫 How to reach me **Suragvc2000@gmail.com**
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1bKaICClIZmoSH-e_RTr8uIZ5PA1qqOOq/view)
 
