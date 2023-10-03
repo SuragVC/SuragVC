@@ -3,7 +3,7 @@
 <p><img align="right" height="250" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt=""/></p>
  
  
-- 🌱 I’m currently learning <i>SpringBoot</i>
+- 🌱 I’m currently learning <i>Flutter</i>
 - 👨‍💻 All of my projects are available at [Portfolio](https://suragvc.netlify.app/)
 - 💬 Ask me about **JAVA | Spring | MySql | Hibernate**
 - 📫 How to reach me **Suragvc2000@gmail.com**
