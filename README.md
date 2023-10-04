@@ -1,5 +1,5 @@
 [](https://i.im.ge/2022/08/19/OaGu0G.Black-Blue-Modern-Geometric-Technology-Youtube-Intro.gif)
-<h3 align="center">Back End Developer, Enjoy creative problem solving and getting exposure to multiple projects, and I would excel in the collaborative environment on which your company prides itself.</h3>
+<h3 align="center">Full stack Developer, Enjoy creative problem solving and getting exposure to multiple projects, and I would excel in the collaborative environment on which your company prides itself.</h3>
 <p><img align="right" height="250" width="350" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif" alt=""/></p>
  
  
