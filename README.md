@@ -3,7 +3,7 @@
 <p><img align="top"  height="300" width="1000" src="https://images.pexels.com/photos/270488/pexels-photo-270488.jpeg" alt="image"/></p>
  
 
-- 🌱 I’m currently learning <i>Flutter</i>
+- 🌱 I’m currently working in <i>Flutter</i>
 - 👨‍💻 All of my projects are available at [Portfolio](https://suragvc.netlify.app/)
 - 💬 Ask me about **Flutter | JAVA | Spring | MySql | Hibernate**
 - 📫 How to reach me **Suragvc2000@gmail.com**
